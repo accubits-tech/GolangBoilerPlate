@@ -2,14 +2,14 @@
 
 This script file is for generating golang simple crud api template with mysql database connectivity.
 
-#Prerequisite
+# Prerequisite
 
 1. Golang
 2. MySQL
 3. Git
 
 
-#Steps to run this script
+# Steps to run this script
 
 1. First clone this repo on your local machine.
 
@@ -32,7 +32,7 @@ This script file is for generating golang simple crud api template with mysql da
 
 9. That's it and the sample rest api bioler plate is ready to use.
 
-#Steps for 2 point.
+# Steps for 2nd point.
 
 1. When you want to create another module in the same repository then again run this script and choose 2nd option.
 
